@@ -3,7 +3,6 @@ In my GitHub repositories, you'll find projects related to Power BI, Python, ML,
 Let's connect!
 - [https://www.linkedin.com/in/sourav-gupta-7539a9217/](https://www.linkedin.com/in/sourav-gupta-7539a9217/)
 - souravgupta166@gmail.com
-  [![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravgupta166)](https://github.com/souravgupta166/github-readme-stats)
 
 ### Hi there 👋, Sourav Gupta
 #### Data Analyst with python AI-ML
