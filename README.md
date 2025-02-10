@@ -4,8 +4,8 @@ Let's connect!
 - [https://www.linkedin.com/in/sourav-gupta-7539a9217/](https://www.linkedin.com/in/sourav-gupta-7539a9217/)
 - souravgupta166@gmail.com
 
-### Hi there 👋, Sourav Gupta
-#### Data Analyst with python AI-ML
+ Hi there 👋, Sourav Gupta
+ Data Analyst with python AI-ML
 ![Data Analyst with python AI-ML](https://media.licdn.com/dms/image/D4D16AQFeCqGyM7eusg/profile-displaybackgroundimage-shrink_200_800/0/1710926688416?e=1723075200&v=beta&t=f53Ii85AmY1Gj3igeO7LMH7GsyHvQK5lwBerorJpFbs)
 
 Hello! I'm Sourav Gupta, a Data Analyst passionate about SQL, Python with AI-ML. I enjoy Playing online games and outdoor sports and love to Code. In my GitHub repositories, you'll find projects related to Power BI, Python, ML,HTML-CSS, Latex
