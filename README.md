@@ -1,7 +1,7 @@
 Hello! I'm  Sourav Gupta, a Data Analyst passionate about SQL, Python with AI-ML. I enjoy Playing online games and outdoor sports and love to Code.
 In my GitHub repositories, you'll find projects related to Power BI, Python, ML,HTML-CSS, Latex. Feel free to explore, contribute, or reach out to me if you have any questions or collaborate on something exciting!
 Let's connect!
-- [https://www.linkedin.com/in/sourav-gupta-7539a9217/](https://www.linkedin.com/in/sourav-gupta-7539a9217/)
+- [https://www.linkedin.com/in/sourav-gupta-7539a9217?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - souravgupta166@gmail.com
 
  Hi there 👋, Sourav Gupta
