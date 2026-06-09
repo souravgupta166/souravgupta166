@@ -69,7 +69,7 @@ GitHub Profile | Browse projects, contribute, or let's collaborate!
 
 🤝 Let's Connect
 
-LinkedIn: Sourav Gupta
+LinkedIn: [Sourav Gupta](https://www.linkedin.com/in/sourav-gupta-7539a9217/)
 Email: souravgupta166@gmail.com
 GitHub: souravgupta166
 
