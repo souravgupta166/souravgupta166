@@ -2,11 +2,11 @@
 
 ### Data Scientist | Machine Learning & Generative AI | Business Intelligence | Berlin 🇩🇪
 
-MSc in Data Science, AI & Digital Business — GISMA University of Applied Sciences, Berlin  
+MSc in Data Science, AI & Digital Business | GISMA University of Applied Sciences, Berlin  
 AWS AI Practitioner Certified | 3+ Years Experience across Analytics, BI & AI Engineering
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-black?style=for-the-badge&logo=githubpages&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav_Gupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav_Gupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sourav-gupta-7539a9217/)
 
 ---
 
@@ -41,21 +41,21 @@ Actively seeking **Data Scientist / AI Engineer / Analytics Engineer** roles in 
 
 ## 📌 Featured Projects
 
-### 🧠 [Multi-Agent AI System for Operational Automation](https://github.com/YOUR-USERNAME/multi-agent-ai-system)
+### 🧠 [Multi-Agent AI System for Operational Automation](https://github.com/souravgupta166/multi-agent-ai-system)
 > Python · OpenAI API · LangChain · RAG · Vector DB · Agentic AI
 
 Built a multi-agent LLM system automating business workflows — user acquisition optimization, internal process automation, and real-time data processing. Implemented RAG pipelines with vector embeddings for contextual decision-making at scale.
 
 ---
 
-### 📚 [RAG-Based Enterprise Knowledge Assistant](https://github.com/YOUR-USERNAME/rag-knowledge-assistant)
+### 📚 [RAG-Based Enterprise Knowledge Assistant](https://github.com/souravgupta166/rag-knowledge-assistant)
 > Python · LLMs · RAG · Vector Search
 
 Developed an AI-powered assistant capable of answering questions from enterprise documentation. Implemented document ingestion, chunking, embedding generation, and semantic retrieval — replacing manual document search with conversational AI access.
 
 ---
 
-### 📉 [Customer Churn Prediction Model](https://github.com/YOUR-USERNAME/churn-prediction)
+### 📉 [Customer Churn Prediction Model](https://github.com/souravgupta166/churn-prediction)
 > Python · Scikit-learn · Random Forest · Gradient Boosting
 
 Built end-to-end ML pipeline for predicting customer churn using behavioral and transactional data. Evaluated models using precision, recall, F1-score, and ROC-AUC. Generated actionable retention insights.
@@ -64,11 +64,11 @@ Built end-to-end ML pipeline for predicting customer churn using behavioral and 
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical)](https://github.com/YOUR-USERNAME)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravgupta166&theme=radical)](https://github.com/souravgupta166)
 
-[![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR-USERNAME)
+[![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravgupta166&show_icons=true&theme=radical)](https://github.com/souravgupta166)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)](https://github.com/YOUR-USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravgupta166&layout=compact&theme=radical)](https://github.com/souravgupta166)
 
 ---
 
@@ -83,9 +83,9 @@ Built end-to-end ML pipeline for predicting customer churn using behavioral and 
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav_Gupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav_Gupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sourav-gupta-7539a9217/)
 [![Email](https://img.shields.io/badge/Email-souravgupta166@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souravgupta166@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR--USERNAME-black?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-souravgupta166-black?style=for-the-badge&logo=github)](https://github.com/souravgupta166)
 
 ---
 
