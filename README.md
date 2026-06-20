@@ -5,7 +5,7 @@
 MSc in Data Science, AI & Digital Business | GISMA University of Applied Sciences, Berlin  
 AWS AI Practitioner Certified | 3+ Years Experience across Analytics, BI & AI Engineering
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-black?style=for-the-badge&logo=githubpages&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-black?style=for-the-badge&logo=githubpages&logoColor=white)](https://souravgupta166.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav_Gupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sourav-gupta-7539a9217/)
 
 ---
