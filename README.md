@@ -1,78 +1,92 @@
-Hi there 👋 I'm Sourav Gupta
-Data Scientist & Analyst | Berlin, Germany
-Specializing in AI/ML, Data Analytics & Business Intelligence
+# Hi 👋, I'm Sourav Gupta
 
-🎯 About Me
-I'm a data-driven professional passionate about building AI-powered solutions and transforming business insights into impact. Currently pursuing a Master's in Data Science, AI & Digital Business at GISMA while working as a Business Analyst at Emerson Berlin.
-My focus: Data pipelines → Advanced analytics → AI/ML applications
+### Data Scientist | Machine Learning & Generative AI | Business Intelligence | Berlin 🇩🇪
 
-💼 Current Focus
+MSc in Data Science, AI & Digital Business — GISMA University of Applied Sciences, Berlin  
+AWS AI Practitioner Certified | 3+ Years Experience across Analytics, BI & AI Engineering
 
-🔭 Building data solutions for ERP modernization and test & measurement workflows
-📊 Developing Power BI dashboards and credit risk analytics models
-🤖 Designing multi-agent AI systems using LangChain and GPT for automation
-📚 Expanding AI/ML expertise with AWS certifications (AWS AI Practitioner ✓)
-🎯 Open to: Data Scientist Consultant, Product Analyst, Analytics Engineer roles
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-black?style=for-the-badge&logo=githubpages&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav_Gupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
 
+---
 
-🛠️ Core Technical Stack
-Languages & Tools:
+🚀 Passionate about building end-to-end data solutions — from **ERP data pipelines** and **Power BI dashboards** to **multi-agent AI systems** and **RAG-powered knowledge assistants**. I specialize in transforming messy, large-scale datasets into clean, actionable intelligence.
 
-Data & Analytics: Python, SQL, Power BI, Excel (DAX)
-ML/AI: LangChain, TensorFlow, Scikit-learn, Pandas, NumPy
-Cloud & Infrastructure: AWS (EC2, S3, SageMaker), Linux
-Databases: MySQL, Oracle, SQL Server
-Visualization & Design: Seaborn, Matplotlib, Adobe Suite
-Other: Git, Jupyter, Flask, HTML/CSS
+With expertise in **Python, SQL, Machine Learning, LLMs, and Generative AI**, I focus on creating robust, scalable solutions that drive real business outcomes. Currently working as a Werkstudent Business Analyst at **Emerson, Berlin**, where I led a 100K–150K record ERP migration with 98–99% data accuracy.
 
+Actively seeking **Data Scientist / AI Engineer / Analytics Engineer** roles in Berlin.
 
-🚀 Key Projects
-Multi-Agent AI Automation System
-Independently built a production-ready multi-agent system using LangChain + GPT that automates complex workflows:
+---
 
-Flight search, booking, and itinerary management
-Dynamic tool chaining and error handling
-Used in portfolio interviews and demos
-Impact: Demonstrates end-to-end AI system architecture and prompt engineering
+## 🔧 Languages & Tools
 
-ERP Migration Data Pipeline
-Led data extraction, transformation, and validation for large-scale ERP system migration:
+| | | | |
+|---|---|---|---|
+| [Python](https://www.python.org) | [SQL](https://www.mysql.com/) | [Power BI](https://powerbi.microsoft.com/) | [Excel / DAX](https://support.microsoft.com/en-us/office/dax-overview) |
+| [Scikit-learn](https://scikit-learn.org/) | [Pandas](https://pandas.pydata.org/) | [NumPy](https://numpy.org/) | [Matplotlib](https://matplotlib.org/) |
+| [LangChain](https://www.langchain.com/) | [OpenAI API](https://platform.openai.com/) | [RAG Pipelines](https://python.langchain.com/docs/tutorials/rag/) | [Vector Databases](https://www.pinecone.io/) |
+| [AWS S3](https://aws.amazon.com/s3/) | [AWS Redshift](https://aws.amazon.com/redshift/) | [AWS SageMaker](https://aws.amazon.com/sagemaker/) | [SSIS](https://learn.microsoft.com/en-us/sql/integration-services/) |
+| [Oracle ERP](https://www.oracle.com/erp/) | [Microsoft Dynamics NAV](https://dynamics.microsoft.com/) | [SharePoint](https://www.microsoft.com/en/microsoft-365/sharepoint/) | [Git](https://git-scm.com/) |
 
-Designed and executed SQL-based ETL processes
-Built Power BI dashboards for stakeholder reporting
-Ensured data integrity across 100K+ records
+---
 
-Credit Risk Analytics Model
-Developed predictive analytics for credit risk assessment:
+## 🤖 What I Build
 
-Feature engineering and model optimization
-Power BI dashboard for risk monitoring
-Improved decision-making efficiency
+- **ML Models** — Customer churn prediction, credit risk scoring, classification & forecasting
+- **Generative AI Systems** — Multi-agent LLM pipelines, RAG-based knowledge assistants, agentic automation
+- **BI & Analytics** — Power BI dashboards, DAX metrics, ERP reporting, KPI tracking
+- **Data Engineering** — ETL/SSIS pipelines, SQL data transformation, ERP migration, data quality validation
 
+---
 
-🎓 Education & Certifications
+## 📌 Featured Projects
 
-Master's in Data Science, AI & Digital Business | GISMA University of Applied Sciences (in progress)
-AWS AI Practitioner Certification ✓
-Background in Data Analytics with hands-on experience across finance, tech, and consulting
+### 🧠 [Multi-Agent AI System for Operational Automation](https://github.com/YOUR-USERNAME/multi-agent-ai-system)
+> Python · OpenAI API · LangChain · RAG · Vector DB · Agentic AI
 
+Built a multi-agent LLM system automating business workflows — user acquisition optimization, internal process automation, and real-time data processing. Implemented RAG pipelines with vector embeddings for contextual decision-making at scale.
 
-📈 GitHub Highlights
-Explore my repositories for:
+---
 
-Data science projects (ML models, statistical analysis)
-Power BI dashboards and DAX optimization
-Python automation scripts
-AI/ML experiments and implementations
+### 📚 [RAG-Based Enterprise Knowledge Assistant](https://github.com/YOUR-USERNAME/rag-knowledge-assistant)
+> Python · LLMs · RAG · Vector Search
 
-GitHub Profile | Browse projects, contribute, or let's collaborate!
+Developed an AI-powered assistant capable of answering questions from enterprise documentation. Implemented document ingestion, chunking, embedding generation, and semantic retrieval — replacing manual document search with conversational AI access.
 
-🤝 Let's Connect
+---
 
-LinkedIn: [Sourav Gupta](https://www.linkedin.com/in/sourav-gupta-7539a9217/)
-Email: souravgupta166@gmail.com
-GitHub: souravgupta166
+### 📉 [Customer Churn Prediction Model](https://github.com/YOUR-USERNAME/churn-prediction)
+> Python · Scikit-learn · Random Forest · Gradient Boosting
 
-Open to discussing data science, AI/ML projects, or job opportunities. Let's build something impactful together! 💡
+Built end-to-end ML pipeline for predicting customer churn using behavioral and transactional data. Evaluated models using precision, recall, F1-score, and ROC-AUC. Generated actionable retention insights.
 
-Based in Berlin | Always learning | Code & coffee enthusiast
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical)](https://github.com/YOUR-USERNAME)
+
+[![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR-USERNAME)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)](https://github.com/YOUR-USERNAME)
+
+---
+
+## 🏆 Certifications
+
+- 🟡 **AWS Artificial Intelligence Practitioner** — Amazon Web Services
+- 🟢 **SAP Analytics Cloud & SAP Cloud ERP** — SAP
+- 🔵 **How to Get into Cloud Computing** — University of Leeds
+- 🟣 **Understanding Quantum Computers** — FutureLearn / Keio University
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourav_Gupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Email](https://img.shields.io/badge/Email-souravgupta166@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souravgupta166@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR--USERNAME-black?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME)
+
+---
+
+*📍 Based in Berlin, Germany | Open to Data Science, AI Engineering & Analytics roles*
