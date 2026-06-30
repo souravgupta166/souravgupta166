@@ -42,7 +42,6 @@ Actively seeking **Data Scientist / AI Engineer / Analytics Engineer** roles in 
 ## 📌 Featured Projects
 
 ### 🧠 [OpsPilot](https://github.com/souravgupta166/Opspilot) – Multi-Agent AI System for Operational Automation
-``
 > Python · OpenAI API · LangChain · RAG · Vector DB · Agentic AI
 
 Built a multi-agent LLM system automating business workflows — user acquisition optimization, internal process automation, and real-time data processing. Implemented RAG pipelines with vector embeddings for contextual decision-making at scale.
