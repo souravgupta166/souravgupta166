@@ -41,7 +41,8 @@ Actively seeking **Data Scientist / AI Engineer / Analytics Engineer** roles in 
 
 ## 📌 Featured Projects
 
-### 🧠 [Multi-Agent AI System for Operational Automation](https://github.com/souravgupta166/multi-agent-ai-system)
+### 🧠 [OpsPilot](https://github.com/souravgupta166/Opspilot) – Multi-Agent AI System for Operational Automation
+``
 > Python · OpenAI API · LangChain · RAG · Vector DB · Agentic AI
 
 Built a multi-agent LLM system automating business workflows — user acquisition optimization, internal process automation, and real-time data processing. Implemented RAG pipelines with vector embeddings for contextual decision-making at scale.
@@ -54,8 +55,8 @@ Built a multi-agent LLM system automating business workflows — user acquisitio
 Developed an AI-powered assistant capable of answering questions from enterprise documentation. Implemented document ingestion, chunking, embedding generation, and semantic retrieval — replacing manual document search with conversational AI access.
 
 ---
-
-### 📉 [Customer Churn Prediction Model](https://github.com/souravgupta166/churn-prediction)
+### 📉 https://customer-churn-prediction-ckigmdkovc3rud3tuyxkpf.streamlit.app/
+💻 https://github.com/souravgupta166/Customer-Churn-Prediction
 > Python · Scikit-learn · Random Forest · Gradient Boosting
 
 Built end-to-end ML pipeline for predicting customer churn using behavioral and transactional data. Evaluated models using precision, recall, F1-score, and ROC-AUC. Generated actionable retention insights.
