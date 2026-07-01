@@ -48,7 +48,8 @@ Built a multi-agent LLM system automating business workflows — user acquisitio
 
 ---
 
-### 📚 [RAG-Based Enterprise Knowledge Assistant](https://github.com/souravgupta166/rag-knowledge-assistant)
+### 📚 [RAG-Based Enterprise Knowledge Assistant][(https://github.com/souravgupta166/rag-knowledge-assistant)](https://github.com/souravgupta166/RAG-Based-Enterprise-knowledge-assitant)
+https://fuqnxiytmb7kudvn6cvdps.streamlit.app/
 > Python · LLMs · RAG · Vector Search
 
 Developed an AI-powered assistant capable of answering questions from enterprise documentation. Implemented document ingestion, chunking, embedding generation, and semantic retrieval — replacing manual document search with conversational AI access.
